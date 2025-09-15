@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+![Governance](https://img.shields.io/badge/Governance-DesignSystem-informational)
+![Polyglot](https://img.shields.io/badge/Polyglot-10+_Langs-purple)
+
 # 🎼 Carnegie Hall Flagship
 
 **Flagship design system and AI collaboration hub — the single source of truth for UI, core logic, and orchestration across mirrors.**
